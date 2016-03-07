@@ -1,0 +1,28 @@
+name: tfriesen
+favicon: null
+layout_spectrum: 0.7949851336888969
+typography_spectrum: 0.9878158397041261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.44140378781594336
+  lightness: 0.8130172870587558
+  saturation: 0.136760828550905
+  rhythmicContrast: 0.046057701110839844
+purpose: []
